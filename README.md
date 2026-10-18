@@ -1,1 +1,0 @@
-# vinaykhatri.github.io
