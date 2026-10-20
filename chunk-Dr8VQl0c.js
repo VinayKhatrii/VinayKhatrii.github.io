@@ -1,0 +1,1 @@
+var r=[{path:`divankar-veg-restaurant`,loadComponent:()=>import(`./chunk-CjjFAv5V.js`).then(e=>e.DurvankarVegRestaurant)}];export{r as demoRoutes};
