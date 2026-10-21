@@ -1,1 +1,0 @@
-var e=[{path:`divankar-veg-restaurant`,loadComponent:()=>import(`./chunk-GyVoO11w.js`).then(a=>a.DurvankarVegRestaurant),data:{description:`Enjoy pure vegetarian North Indian, South Indian, and Indo-Chinese favourites at Durvankur Veg Restaurant & Banquet in Katrap, Badlapur East. Join us for family dining and banquet celebrations.`}}];export{e as demoRoutes};
